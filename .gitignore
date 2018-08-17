@@ -17,7 +17,6 @@
 *.74
 old/
 data/
-cfg/
 mnist/
 caffe/
 grasp/

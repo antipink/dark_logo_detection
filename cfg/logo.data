@@ -1,0 +1,8 @@
+classes= 2
+train  = /home/ray_li/darknet/data/logo/train.txt
+#valid  = coco_testdev
+valid = /home/ray_li/darknet/data/logo/val.txt
+names = /home/ray_li/darknet/data/logo.names
+backup = /home/ray_li/darknet/data/backup/
+eval=coco
+

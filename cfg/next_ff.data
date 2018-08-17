@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/ray_li/darknet/data/nextdata_ff/train.txt
+#valid  = coco_testdev
+valid = /home/ray_li/darknet/data/nextdata_ff/test.txt
+names = /home/ray_li/darknet/data/next.names
+backup = /home/ray_li/darknet/data/backup/

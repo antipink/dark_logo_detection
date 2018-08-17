@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/ray_li/darknet/data/olympicpb/train.txt
+#valid  = coco_testdev
+valid = /home/ray_li/darknet/data/olympicpb/test.txt
+names = /home/ray_li/darknet/data/olympicpb.names
+backup = /home/ray_li/darknet/data/backup/
