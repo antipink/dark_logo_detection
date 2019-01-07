@@ -27,7 +27,7 @@ decaf/
 submission/
 darknet
 .fuse*
-
+.zip
 # OS Generated #
 .DS_Store*
 ehthumbs.db

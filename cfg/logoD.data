@@ -1,0 +1,6 @@
+classes= 78
+train  = /home/ray_li/darknet/data/logoD/train.txt
+#valid  = coco_testdev
+valid = /home/ray_li/darknet/data/logoD/test.txt
+names = /home/ray_li/darknet/data/logoD.names
+backup = /home/ray_li/darknet/data/backup/
